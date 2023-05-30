@@ -28,4 +28,4 @@ public class InfoFragmentAdapter extends FragmentStatePagerAdapter {
         return fragmentList.size();
     }
 }
-
+/// 10120171 - Abdullah Tsani Iqomuddin - IF5
