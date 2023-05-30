@@ -29,4 +29,4 @@ public class SplashActivity extends AppCompatActivity {
         }, 3000L);
     }
 }
-
+/// 10120171 - Abdullah Tsani Iqomuddin - IF5
