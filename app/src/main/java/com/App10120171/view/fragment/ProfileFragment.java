@@ -29,4 +29,4 @@ public class ProfileFragment extends Fragment {
         mainActivity.getSupportActionBar().hide();
     }
 }
-
+/// 10120171 - Abdullah Tsani Iqomuddin - IF5
