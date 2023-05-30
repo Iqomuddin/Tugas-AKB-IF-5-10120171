@@ -89,4 +89,4 @@ public class NoteFragment extends Fragment  {
         recyclerView.setHasFixedSize(true);
     }
 }
-
+/// 10120171 - Abdullah Tsani Iqomuddin - IF5
