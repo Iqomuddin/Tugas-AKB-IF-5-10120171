@@ -66,4 +66,4 @@ public class NoteAdapter extends RecyclerView.Adapter<NoteAdapter.ViewHolder> {
         }
     }
 }
-
+/// 10120171 - Abdullah Tsani Iqomuddin - IF5
