@@ -20,4 +20,4 @@ public class InfoFragment2 extends Fragment {
         return rootView;
     }
 }
-
+/// 10120171 - Abdullah Tsani Iqomuddin - IF5
