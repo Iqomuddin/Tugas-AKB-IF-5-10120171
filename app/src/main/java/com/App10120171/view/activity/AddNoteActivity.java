@@ -119,4 +119,4 @@ public class AddNoteActivity extends AppCompatActivity {
         });
     }
 }
-
+/// 10120171 - Abdullah Tsani Iqomuddin - IF5
