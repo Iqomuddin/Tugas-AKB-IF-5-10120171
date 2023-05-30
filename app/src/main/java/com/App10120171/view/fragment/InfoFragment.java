@@ -51,4 +51,4 @@ public class InfoFragment extends Fragment {
         viewPager.setAdapter(pagerAdapter);
     }
 }
-
+/// 10120171 - Abdullah Tsani Iqomuddin - IF5
